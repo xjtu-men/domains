@@ -6,3 +6,5 @@
   * IPv4: <https://ipv4.xjtu.live>
   * IPv6: <https://ipv6.xjtu.live>
 * CloudFlare CDN 加速域名：<https://cf.xjtu.live>
+* 301重定向：[xjtu.win](https://xjtu.win) -> [xjtu.men](https://xjtu.men)
+* [xjtu.love](https://xjtu.love) is available as an alternative domain as of now.
